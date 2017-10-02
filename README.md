@@ -1,0 +1,2 @@
+# ConfigData
+SpringCloud config data
